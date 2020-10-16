@@ -16,9 +16,10 @@ Feel free to contribute by sending PR!
 * [A Step Towards Data Orientation (2010)](http://www.slideshare.net/DICEStudio/a-step-towards-data-orientation) - Johan Torp
 * [Introduction To Data Oriented Design (2010)](http://www.slideshare.net/DICEStudio/introduction-to-data-oriented-design) - DICE
 * [Memory Optimization (2003)](https://www.slideshare.net/backkom/memory-optimization-212630?qid=900a4da7-e1dd-447f-bdbe-389ad83f3a0c) - Christer Ericson
+* [A Crash Course in Modern Hardware](https://www.infoq.com/presentations/click-crash-course-modern-hardware/) -  Dr. Cliff Click
 * [Practical Examples In Data Oriented Design (2013)](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0) - Niklas Frykholm
 * [Three Big Lies (2008)](http://cellperformance.beyond3d.com/articles/2008/03/three-big-lies.html) - Mike Acton
-* [Typical C++ Bullshit (2008)](http://macton.smugmug.com/gallery/8936708_T6zQX#!i=593426709&k=ZX4pZ) - Mike Acton
+* [Typical C++ Bullshit (2008)](https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH) - Mike Acton
 * [Data-Oriented Design and C++ (2014)](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - Mike Acton
 * [Entity Component Systems &
 Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf) - Aras Pranckevičius
@@ -31,6 +32,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Adventures in data-oriented design – Part 3b: Internal References (2013)](https://molecularmusings.wordpress.com/2013/05/17/adventures-in-data-oriented-design-part-3b-internal-references/) - Stefan Reinalter
 * [Adventures in data-oriented design – Part 3c: External References (2013)](https://molecularmusings.wordpress.com/2013/07/24/adventures-in-data-oriented-design-part-3c-external-references/) - Stefan Reinalter
 * [Adventures in data-oriented design – Part 4: Skinning it to 11 (2013)](https://molecularmusings.wordpress.com/2013/08/22/adventures-in-data-oriented-design-part-4-skinning-it-to-11/) - Stefan Reinalter
+* [An introduction to Data Oriented Design with Rust](https://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
 * [Allocation Adventures 1: The DataComponent (2015)](http://bitsquid.blogspot.it/2015/06/allocation-adventures-1-datacomponent.html) - Niklas Frykholm
 * [Allocation Adventures 2: Arrays of Arrays (2015)](http://bitsquid.blogspot.it/2015/06/allocation-adventures-2-arrays-of-arrays.html) - Niklas Frykholm
 * [An Example in Data-Oriented Design: Sound Parameters (2011)](http://bitsquid.blogspot.it/2011/11/example-in-data-oriented-design-sound.html) - Niklas Frykholm
@@ -56,6 +58,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [What is Data-Oriented Game Engine Design? (2014)](http://gamedevelopment.tutsplus.com/articles/what-is-data-oriented-game-engine-design--cms-21052) - David Davidović
 * [Comments on Data Oriented Design – Part I (2015)](https://gautiertalkstechnology.wordpress.com/2015/02/21/comments-on-data-oriented-design-part-i) - Michael Gautier
 * [Comments on Data Oriented Design – Part II (2015)](https://gautiertalkstechnology.wordpress.com/2015/02/22/comments-on-data-oriented-design-part-ii) - Michael Gautier
+* [Data oriented design is not about SoA and ECS (2020)](https://www.polymonster.co.uk/blog/dod-ecs) - Alex Dixon
 
 ## Videos
 
@@ -66,11 +69,17 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Democratizing Data-Oriented Design: A Data-Oriented Approach to Using Component Systems (2018)](https://www.youtube.com/watch?v=p65Yt20pw0g) - Mike Acton
 * [Democratizing Data-Oriented Design: From C# to Machine Code (2018)](https://www.youtube.com/watch?v=NF6kcNS6U80) - Andreas Fredriksson
 * [Efficiency with Algorithms, Performance with Data Structures (2014, cppcon)](https://www.youtube.com/watch?v=fHNmRkzxHWs&list=WL&index=1) - Chandler Carruth
+* [Memory Optimization (2003)](https://www.youtube.com/watch?v=t15T_BkOtm0) - Christer Ericson
 * [Native Code Performance and Memory: The Elephant in the CPU (2013)](https://channel9.msdn.com/Events/Build/2013/4-329) - Eric Brumer
 * [Object-Oriented Programming is Bad (2016)](https://www.youtube.com/watch?v=QM1iUe6IofM) - Brian Will
 * [Performance Optimization, SIMD and Cache (2015)](https://www.youtube.com/watch?v=Nsf2_Au6KxU) - Sergiy Migdalskiy
 * [OOP Is Dead, Long Live Data-oriented Design (cppcon 2018)](https://www.youtube.com/watch?v=yy8jQgmhbAU) - Stoyan Nikolov
 * [Using Rust For Game Development (RustConf 2018)](https://www.youtube.com/watch?v=aKLntZcp27M) - Catherine West
+* [Overwatch Gameplay Architecture and Netcode (GDC 2017)](https://www.youtube.com/watch?v=W3aieHjyNvw) - Timothy Ford
+* [Rust Auckland - Azriel: ECS: A Programming Paradigm (2018)](https://www.youtube.com/watch?v=SofC6c9xQv4&) - Azriel Hoh
+* [Unity at GDC - ECS for Small Things (2018)](https://www.youtube.com/watch?v=EWVU6cFdmr0) - Vlad Vukicevic
+* [Building a Data-Oriented Future - Mike Acton (2019)](https://www.youtube.com/watch?v=u8B3j8rqYMw) - Mike Acton
+* [Intrinsic Functions - Vector Processing Extensions](https://youtu.be/x9Scb5Mku1g) - Javidx9
 
 ## Other
 
@@ -83,6 +92,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [What Is Data Oriented Design (2009)](http://stackoverflow.com/questions/1641580/what-is-data-oriented-design) - stackoverflow.com
 * [Data Oriented Design Book (2018)](http://www.dataorienteddesign.com/dodbook/dodmain.html) - Richard Fabian
 * [Cache-Line Aware Data Structures (2018)](https://accu.org/index.php/journals/2535) - accu.org
+* [Investigating Data-Oriented Design - Master Thesis (2019)](https://github.com/Per-Morten/master_project) - Per-Morten Straume
 
 ## Code Examples
 
